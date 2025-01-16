@@ -19,7 +19,7 @@ A Python-based application that allows users to check the strength of their pass
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/jakwanaldin/PasswordStrengthChecker.git
    ```
 
 2. Navigate into the project folder:
